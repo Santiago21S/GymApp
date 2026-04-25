@@ -1,7 +1,3 @@
-Aquí tienes un **README.md** profesional, conciso y estructurado para que cualquier colaborador (o tú mismo en el futuro) pueda levantar el proyecto desde cero sin complicaciones.
-
----
-
 # 🚀 Gym App - Fullstack Project
 
 Aplicación móvil de entrenamiento y nutrición desarrollada con **React Native (Expo)** y **Django REST Framework**, con integración de IA para reconocimiento de máquinas.
