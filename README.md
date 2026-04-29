@@ -25,7 +25,7 @@ Aplicación móvil de entrenamiento y nutrición desarrollada con **React Native
     Utiliza el archivo `environment.yml` para instalar todas las dependencias:
     ```bash
     conda env create -f environment.yml
-    conda activate gym-app-env
+    conda activate GymApp
     ```
 
 3.  **Migraciones y Servidor:**
