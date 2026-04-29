@@ -25,6 +25,20 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
+For local development, especially when testing on physical iOS devices, it's recommended to force the Local Area Network (LAN) connection to avoid localhost routing issues:
+```bash
+npm run start--lan
+ ```
+
+ 
+ ## TEST on your iphone via ExpoGo
+ Another option to test your app can be via the already existing app ExpoGo
+- Download the Expo Go app from the App Store.
+- Make sure your iPhone and your computer are connected to the same Wi-Fi network.
+- Open the Camera app on your iPhone and scan the QR code generated in the terminal.
+- Tap the notification to open the project in Expo Go.
+
+
 ## Get a fresh project
 
 When you're ready, run:
